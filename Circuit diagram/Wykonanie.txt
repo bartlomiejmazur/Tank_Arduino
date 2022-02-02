@@ -1,0 +1,8 @@
+1.	Skonstruowanie pojazdu który będzie składa się z:
+•	Podwozia (black gladiator) gąsienicowe podwozie wykonane z aluminium wraz z dwoma silnikami prądu stałego DC,
+•	Mikrokontroler arduino Uno,
+•	Moduł bluetooth HC -05,
+•	Sterownik silników L293D nakładka dla arduino,
+•	Dwóch ogniw 18650 Li-Ion.
+2.	Zaprogramowania mikrokontrolera oraz implementacja kodu.
+3.	Połączenie robota z aplikacja mobilną dostępną w google play.
